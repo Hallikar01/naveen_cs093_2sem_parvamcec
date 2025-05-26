@@ -23,7 +23,7 @@ int main(){
     calculatorcalc;
     int op;
     cout<<"(1:add,2:sub,3:mul,4:div)";
-    cout<<"enter yourchoice"<<endl;
+    cout<<"enter your choice"<<endl;
     cin<<op;
     calc.getinpout();
     switch(op){

@@ -27,7 +27,7 @@ class  BankAccount
 int main()
 {
     BankAccount b1;
-    b1.setholder_name("ryan");
+    b1.setholder_name("naveen");
     b1.setacc_num(120);
     cout<<"holder_name is :"<<b1.getholder_name()<<endl;
     cout<<"acc_num is:"<<b1.getacc_num()<<endl;

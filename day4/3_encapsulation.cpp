@@ -27,7 +27,7 @@ class Student
 int main()
 {
     Student s1;
-    s1.setName("ryan");
+    s1.setName("naveen");
     s1.setRollnum(120);
     cout<<"name is :"<<s1.getName()<<endl;
     cout<<"roll Num is:"<<s1.getrollNum()<<endl;
